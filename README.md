@@ -5,7 +5,7 @@ Xp0intCon是Xp0int团队在每个学期期末时举办的一个校内会议，�
 # Description
 这是用于公开Xp0intCon议题的地方
 
-1. [Xp0intCon20170610](https://github.com/Xp0int/Xp0intCon20170610/)
+1. [Xp0intCon20170610](/Xp0intCon20170610/)
 
 
 
